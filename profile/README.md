@@ -1,4 +1,4 @@
-<h1>Ledges Information Opportunity Co. "Ledges.io"h1>
+<h1>Ledges Information Opportunity Co. "Ledges.io"</h1>
 
 ```
 An education company distributing information with as little friction as possible to maximize opportunity.
