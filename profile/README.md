@@ -1,7 +1,8 @@
 <h1>Ledges Information Opportunity Co. "Ledges.io"</h1>
 
 ```
-An education company distributing information with as little friction as possible to maximize opportunity.
+Ledges is a technology company that builds effective and simple learning tools for modern skills.
+Ledges focuses on bringing students towards their most actualized future, through skills like business fundamentals, leadership, coding, learning strategies, sales, and much more.
 
 Understanding is a key component to developing ability, and in turn, producing desired results.
 Information is the building block of understanding, but work is needed to assemble it.
